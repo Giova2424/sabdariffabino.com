@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabdariffa Vino</title>
+    <style>
+        body {
+            font-family: 'Poppins', Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: rgb(84, 0, 32);
+            color: #76005a;
+        }
+        header {
+            background: linear-gradient(135deg, #420000, #6a0b4d);
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        header img {
+            max-width: 500px;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #97152a;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #ffebee;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        a {
+            color: #e20025;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Sabdariffa Vino</h1>
+        <img src="https://i.postimg.cc/QMTDnxN9/Captura-de-pantalla-2025-03-13-192135.png" alt="Logo de Sabdariffa Vino">
+    </header>
+    
+    <section>
+        <h2>Misión</h2>
+        <p>Producir vinos de alta calidad que reflejen la riqueza y la diversidad de la cultura jamaicana, y brinden una experiencia única y auténtica a nuestros clientes.</p>
+    </section>
+
+    <section>
+        <h2>Visión</h2>
+        <p>Ser la empresa de vino más respetada y admirada de Jamaica, reconocida por nuestra dedicación a la calidad, nuestra innovación y nuestra contribución al desarrollo de la industria vinícola jamaicana.</p>
+    </section>
+
+    <section>
+        <h2>Integrantes de la Empresa:</h2>
+        <ul>
+            <li>Yatziry Gissell Méndez Arias</li>
+            <li>Lizeth Rosaldo Garcia</li>
+            <li>Lizbeth Rosaldo Garcia</li>
+            <li>Emily Guadalupe Izquierdo Matus</li>
+            <li>Desiré García De La Cruz</li>
+            <li>Sara García Morales</li>
+            <li>Janeire Yaret Morales González</li>
+            <li>Álvaro Ulloa Morales</li>
+            <li>Sugey Mireya Vázquez Hidalgo</li>
+            <li>Sherlyn Morales Barahona</li>
+            <li>Ángel Mayge Lara</li>
+            <li>Alfredo Lopez Morales</li>
+            <li>Brisa Citlaly Hidalgo Olan</li>
+            <li>Diego Hernández Concepción</li>
+            <li>Rene Arias Hernández</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Productos</h2>
+        <ul>
+            <li>Vino de Jamaica</li>
+            <li>Chamoy a base de Jamaica</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Servicios</h2>
+        <ul>
+            <li>Degustaciones De Vino (Tastings)</li>
+            <li>Servicio De Personalización De Etiquetas Y Botellas De Vino</li>
+            <li>Venta De Vinos En Línea Y Envíos A Domicilio</li>
+            <li>Servicio De Catering Y Eventos Privados</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contactos</h2>
+        <p>Teléfonos: 9171058723 / 9171277204</p>
+        <p><a href="https://maps.app.goo.gl/JcSaMz3fYggNT2hr7" target="_blank">Ubicación</a></p>
+    </section>
+</body>
+</html>
